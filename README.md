@@ -1,16 +1,20 @@
-## Hi there 👋
+# Gibran Rafisqy • RPL Student
 
-<!--
-**Gibbbb11/Gibbbb11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About
+I'm a first-year Software Engineering student at SMK Plus Pelita Nusantara.  
+I enjoy building systems, experimenting with AI models, and also editing
 
-Here are some ideas to get you started:
+##  Interests
+- AI / Machine Learning
+- Computer Vision
+- Web Development
+- editing
+- watching movies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills
+- Programming: JavaScript, Python
+- Tools: Git, VSCode, Photoshop, Alight Motion, Figma
+- Frontend: HTML, CSS.
+
+##  Reach Me
+Feel free to say hi or collaborate!
