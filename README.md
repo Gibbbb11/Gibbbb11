@@ -25,7 +25,7 @@ I never skip a day without watching a movie — Team Ironman<br>
 
 
 ##  Github Stat
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=firzaaafems&show_icons=true&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=firzaaafems&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firzaaafems&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gibbbb11&show_icons=true&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gibbbb11&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gibbbb11&layout=compact&theme=tokyonight)
 
