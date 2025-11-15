@@ -1,4 +1,4 @@
-# Gibran Rafisqy • RPL Student
+# Gibb
 
 ##  About
 I'm a first-year Software Engineering student at SMK Plus Pelita Nusantara.  
@@ -8,13 +8,13 @@ I enjoy building systems, experimenting with AI models, and also editing
 - AI / Machine Learning
 - Computer Vision
 - Web Development
-- editing
-- watching movies
+- Editing
+- Watching Movies
 
 ##  Skills
+- Editing: Color Grading, Morphing, Short Movie
 - Programming: JavaScript, Python
-- Tools: Git, VSCode, Photoshop, Alight Motion, Figma
-- Frontend: HTML, CSS.
+- Tools: Git, VSCode, Photoshop, Alight Motion, Lightroom, After Effect, Premiere Pro, Davinci, Afinity
 
-##  Reach Me
-Feel free to say hi or collaborate!
+##  Fun Fact
+I never skip a day without watching a movie —Team Ironman
