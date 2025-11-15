@@ -17,5 +17,5 @@ I enjoy building systems, experimenting with AI models, and also editing
 - Tools: Git, VSCode, Photoshop, Alight Motion, Lightroom, After Effect, Premiere Pro, Davinci, Afinity
 
 ##  Fun Fact
-I never skip a day without watching a movie — Team Ironman
+I never skip a day without watching a movie — Team Ironman<br>
     <img src="https://github.com/user-attachments/assets/eb2cb01b-04f7-4ab8-adb6-ae62d0259aa0" alt="Ironman Emoji" width="80" height="80" style="vertical-align: middle;">
