@@ -14,7 +14,7 @@ I enjoy building systems, experimenting with AI models, and also editing
 ##  Skills
 - Editing: Color Grading, Morphing, Short Movie
 - Programming: JavaScript, Python, 
-- Tools: Git, VSCode, Photoshop, Alight Motion, Lightroom, After Effect, Premiere Pro, Davinci, Afinity
+
 
 ##  Fun Fact
 I never skip a day without watching a movie — Team Ironman<br>
@@ -22,10 +22,13 @@ I never skip a day without watching a movie — Team Ironman<br>
 
 
 ##  Tools
-
-
-##  Github Stat
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gibbbb11&show_icons=true&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gibbbb11&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gibbbb11&layout=compact&theme=tokyonight)
+- Tools:
+  ![Git](./assets/git.svg)
+  ![VSCode](./assets/vscode.svg)
+  ![Photoshop](./assets/photoshop.svg)
+  ![After Effects](./assets/after-effects.svg)
+  ![Premiere Pro](./assets/premierepro.svg)
+  ![Lightroom](./assets/lightroom.svg)
+  ![DaVinci Resolve](./assets/davinci.svg)
+  ![Affinity](./assets/affinity.svg)
 
