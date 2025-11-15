@@ -20,5 +20,5 @@ I enjoy building systems, experimenting with AI models, and also editing
 
 <span style="display: flex; align-items: center; gap: 10px;">
     I never skip a day without watching a movie — Team Ironman
-    <img src="URL_GAMBAR_EMOJI_ANDA" alt="Ironman Emoji" width="80" height="80" style="vertical-align: middle;">
+    <img src="https://github.com/user-attachments/assets/eb2cb01b-04f7-4ab8-adb6-ae62d0259aa0" alt="Ironman Emoji" width="80" height="80" style="vertical-align: middle;">
 </span>
