@@ -20,7 +20,7 @@ I enjoy building systems, experimenting with AI models, and also editing
 
 <div style="display: inline-flex; align-items: center; gap: 6px;">
   <span>I never skip a day without watching a movie — Team Ironman</span>
-  <img src="https://github.com/user-attachments/assets/eb2cb01b-04f7-4ab8-adb6-ae62d0259aa0" width="80">
+  <img src="https://github.com/user-attachments/assets/eb2cb01b-04f7-4ab8-adb6-ae62d0259aa0" width="80" style="vertical-align: middle; margin-left: 6px;">
 </div>
 
 
