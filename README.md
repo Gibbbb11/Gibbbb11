@@ -18,6 +18,7 @@ I enjoy building systems, experimenting with AI models, and also editing
 
 ##  Fun Fact
 
-I never skip a day without watching a movie —Team Ironman <img src="[https://github.com/user-attachments/assets/d8fd262f-6873-40ca-8f75-b154d6a2c460)" width="80" align="left" style="margin-right: 10px;">
+I never skip a day without watching a movie —Team Ironman <img width="80" align="left" style="margin-right: 10px; alt="98944e1c-2921-4e25-8501-97489611c1bf" src="https://github.com/user-attachments/assets/72ff9bb0-ee97-4831-be37-1829c5ae846f" />
+
 
 
